@@ -3,7 +3,6 @@ public class Task2 {
 
         int priceA = 1000;
         int priceB = 500;
-
         int discountPercent = 10;
 
         int priceAPLusB = (priceA + priceB) - (priceA + priceB) * discountPercent / 100;
